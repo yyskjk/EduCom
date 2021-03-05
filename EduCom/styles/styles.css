@@ -1,0 +1,124 @@
+body{
+  text-align: center;
+}
+#header-section{
+  background-image: url('../img/background.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 100%;
+}
+
+.navbar-brand{
+  font-size: 1.5rem;
+}
+
+.nav-link {
+  text-align: center;
+  color: rgba(255,255,255,1);
+}
+
+.nav-link:hover{
+  color:#d9534f;
+}
+
+.nav-item{
+  text-align: center;
+  position: relative;
+  width: 138px;
+}
+
+.navbar-nav{
+  text-align: center;
+  margin-left: 350px;
+  color: rgba(255,255,255,1);
+}
+
+.navbar.navbar-expand-lg.navbar-dark{
+  padding: 50px 60px;
+}
+
+#logout-button{
+  position: absolute;
+  right: 0;
+  background-color: white;
+}
+#navbarTogglerDemo01{
+  position: relative;
+}
+
+.jumbotron{
+  background: none;
+  text-align: center;
+  color: #eeeeee;
+  line-height: 3;
+  padding-top: 64px;
+}
+
+#intro-para{
+  line-height: 2;
+  text-align: center;
+  font-size: 20px;
+}
+
+#mid-section{
+  background-color: #ff5722;
+  text-align: center;
+  position: relative;
+  color: #fff;
+}
+
+.feature-title{
+  font-weight: 700;
+  font-size: 2rem;
+}
+.icon{
+  color:#eeecda;
+  margin-bottom: 1rem;
+
+}
+
+.icon:hover{
+  color: #e8e8e8;
+}
+
+.feature-box{
+  padding: 2%;
+}
+
+.feature-para{
+  font-size: 1.5rem;
+}
+
+/* Testimonials */
+#testimonials{
+  background-color: #fff;
+  color: #ff5722;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.testimonial-img{
+  width: 20%;
+  height: 20%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.testimonial-text{
+  font-weight: 700;
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+
+#footer{
+  background-color:#ff5722;
+  height: 90px;
+}
+.footer-icon{
+  margin:15px 10px;
+  color: #fff;
+}
+
+#copyright{
+  color: #fff;
+}

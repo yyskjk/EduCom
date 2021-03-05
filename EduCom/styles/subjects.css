@@ -1,0 +1,62 @@
+
+#d1 {
+    float:left;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+
+.container {
+    padding:2px 16px;
+}
+label {
+    font-weight: bold;
+    font-size: large;
+}
+#d2 {
+    float:right;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+#d1 {
+    float:left;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+#d3 {
+    float:left;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+#d4 {
+    float:right;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+#d5 {
+    float:left;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+#d6 {
+    float:right;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+#d1:hover{
+    box-shadow: 0 30px 40px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+#d2:hover{
+    box-shadow: 0 30px 40px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+#d3:hover{
+    box-shadow: 0 30px 40px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+#d4:hover{
+    box-shadow: 0 30px 40px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+#d5:hover{
+    box-shadow: 0 30px 40px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+#d6:hover{
+    box-shadow: 0 30px 40px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}

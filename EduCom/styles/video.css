@@ -1,0 +1,33 @@
+#v1,#v2,#v3,#v4,#v5,#v6,#v7 {
+    border:1px solid #000000;
+}
+a {
+    text-align:center;
+}
+#d1,#d2,#d3,#d4,#d5,#d6,#d7 {
+    font-size: larger;
+    font-family: "Times New Roman", Times, serif;
+    border: 1px solid black;
+    
+}
+#he1 {
+    background-color:orange;
+}
+label{
+    font-size: larger;
+}
+body{
+    text-align:center;
+}
+@media only screen and (max-width:600px)
+{
+
+    #d1,#d2,#d3,#d4,#d5,#d6,#d7 {
+        
+        font-size: 12px;
+    }
+    #v1,#v2,#v3,#v4,#v5,#v6,#v7 {
+        height: 150px;
+        width:210px;
+    }
+}
