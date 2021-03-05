@@ -1,2 +1,5 @@
 # EduCom
-Online Coaching Classes
+## Description
+This **E-learning website** is an online schooling stage that is made for students to learn different course technical subjects and increase information in an effective and straightforward way. It's a one stop stage to access study material liberated from cost. This can be accessed whenever and from anyplace for learning purposes. One of the key advantage is that a student can learn at their own movement and can completely comprehend the ideas by viewing the uploaded recordings, asking questions. 
+## Scope
+Our project lacks a little in terms of security which is a big constraint for us as of now. However, as time passes, we would try to make the website more secure for our users so they have a seamless experience. The Covid-19 pandemic has shown us how important online learning can be. We believe that with our website we can educate students living in the remotest parts of the world. With mobiles, laptops and tablets being updated constantly, online is the new frontier for education and sites like Educom could be on the forefront.
